@@ -15,6 +15,6 @@ def swap_ends(my_str):
     last_letter = my_str[len(my_str) - 1]
     return last_letter + middle_part + first_letter
 
-my_str = "boat"
-swapped = swap_ends(my_str)
+my_stri = "boat"
+swapped = swap_ends(my_stri)
 print(swapped)
