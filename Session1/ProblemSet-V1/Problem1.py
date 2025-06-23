@@ -1,8 +1,8 @@
 '''In a new Replit, copy and paste the following function:
 
 def count_mississippi(limit):
-    for num in range(1, limit):
-		print( f"{num} mississippi")
+  for num in range(1, limit):
+		print(f"{num} mississippi")
 Call the function so that it prints out the following to the console (without calling the function more than once):
 
 1 mississipi
@@ -12,8 +12,8 @@ Call the function so that it prints out the following to the console (without ca
 5 mississipi'''
 
 def count_mississippi(limit):
-  for num in range(1, limit):
-	  print( f"{num} mississippi")
+    for num in range(1, limit):
+        print(f"{num} mississippi")
 
 count_mississippi(6)
                 
